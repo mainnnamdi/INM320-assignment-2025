@@ -13,11 +13,18 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
-#dave{
+#dave {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     font-weight: 200;
     color: #155984;
+}
+
+#roch {
+    font-family: 'Pixelify Sans', serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #960e0e;
 }
 
 header {
@@ -46,6 +53,7 @@ main div {
     margin-bottom: 10px;
     text-align: center;
 }
+
 .bebas-neue-regular {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -80,7 +88,7 @@ footer {
 
 
 
-#gab{
+#gab {
     font-size: 50px;
     color: darkslateblue;
     font-style: italic;
