@@ -13,6 +13,13 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
+#dave{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+    color: #155984;
+}
+
 header {
     background: #edf6f9;
     text-align: center;
