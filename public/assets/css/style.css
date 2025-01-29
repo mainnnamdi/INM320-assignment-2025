@@ -27,6 +27,13 @@ body {
     color: #960e0e;
 }
 
+#van {
+    font-family: "Protest Riot", serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #0014ae;
+}
+
 header {
     background: #edf6f9;
     text-align: center;
