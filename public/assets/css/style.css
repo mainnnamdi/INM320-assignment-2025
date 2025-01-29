@@ -13,6 +13,13 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
+#mic {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: teal;
+}
+
 #dave {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
@@ -101,3 +108,4 @@ footer {
     font-style: italic;
     font-weight: bolder;
 }
+
