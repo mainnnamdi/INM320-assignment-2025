@@ -41,6 +41,13 @@ body {
     color: #0014ae;
 }
 
+#Lis {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #11184c;
+}
+
 header {
     background: #edf6f9;
     text-align: center;
