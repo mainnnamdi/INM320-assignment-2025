@@ -112,7 +112,5 @@ footer {
 #armand{
     text-decoration: dashed;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    stroke: black;
-    stroke-width: 2px;
-    color: white;
+    color: rgb(255, 145, 0);
 }
