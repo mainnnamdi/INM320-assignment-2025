@@ -144,6 +144,7 @@ footer {
     font-weight: bolder;
 }
 
+<<<<<<< Updated upstream
 #armand{
     text-decoration: dashed;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -166,3 +167,10 @@ footer {
     color: #960e0e;
 }
 
+=======
+#slt {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #960e0e;
+}
+>>>>>>> Stashed changes
