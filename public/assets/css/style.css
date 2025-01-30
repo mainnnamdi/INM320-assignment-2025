@@ -52,7 +52,7 @@ body {
     color: #11184c;
 }
 
-#tami{
+#tim{
     font-family: "Bricolage Grotesque", serif;
     font-weight: 700;
     font-style: normal;
@@ -75,7 +75,12 @@ body {
     font-style: italic;
     
 }
-
+#tim{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+    color: #155984;
+}
 header {
     background: #edf6f9;
     text-align: center;
