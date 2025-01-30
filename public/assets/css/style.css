@@ -149,3 +149,12 @@ footer {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(255, 145, 0);
 }
+#cici{
+    background-image:url(../images/Cerelia.JPG) ;
+    background-size: cover;
+    background-position: center;
+    color: #F3F1E7;
+    font-size: 40px;
+    font-family: 'Caveat';
+    font-weight: 700;
+}
