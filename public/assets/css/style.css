@@ -158,3 +158,11 @@ footer {
     font-family: 'Caveat';
     font-weight: 700;
 }
+
+#slt {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    color: #960e0e;
+}
+
