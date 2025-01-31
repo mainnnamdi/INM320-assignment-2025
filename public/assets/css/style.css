@@ -12,6 +12,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Capriola&family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
 
 body {
     background: #155984;
@@ -114,6 +115,12 @@ body {
     color:#e29578
 }
 
+#hideki {
+    font-family: "Space Grotesk", serif;
+    font-weight: 600;
+    font-size: 30px;
+    color:#490469
+}
 
 header {
     background: #edf6f9;
