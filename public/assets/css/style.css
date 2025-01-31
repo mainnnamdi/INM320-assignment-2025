@@ -108,6 +108,12 @@ body {
     font-size: 26px;
 }
 
+#kaoru {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color:#e29578
+}
+
 
 header {
     background: #edf6f9;
