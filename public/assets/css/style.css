@@ -139,6 +139,14 @@ body {
     color: #379966;
 }
 
+#angela {
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color:#d582ff
+}
+
 header {
     background: #edf6f9;
     text-align: center;
