@@ -11,5 +11,13 @@
     "lite-server": "^2.6.1"
   },
   "main": "index.js",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachin712/INM320-assignment-2025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sachin712/INM320-assignment-2025/issues"
+  },
+  "homepage": "https://github.com/Sachin712/INM320-assignment-2025#readme"
 }

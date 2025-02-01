@@ -248,6 +248,26 @@ footer {
     font-family: 'Caveat';
     font-weight: 700;
 }
+
+#AOP{
+    font-family: "Playwrite IN", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    background-color: #960e0e;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px 0;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+#AOP:hover {
+    background-color: #e8a8a8; 
+}
+
+
 <<<<<<< HEAD
 =======
 
