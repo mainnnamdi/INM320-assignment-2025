@@ -313,7 +313,7 @@ footer {
 
 #nnamd{
     font-size: 4rem; /* Adjust size as needed */
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     color: transparent; /* Makes the text transparent */
     background: linear-gradient(45deg, #ff6b6b, #ffb142);
